@@ -36,7 +36,7 @@ class EastlConan(ConanFile):
     def _minimum_compilers_version(self):
         return {
             "Visual Studio": "14",
-            "gcc": "4.8.1",
+            "gcc": "5",
             "clang": "3.2",
             "apple-clang": "4.3",
         }
