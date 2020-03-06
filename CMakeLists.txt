@@ -8,4 +8,6 @@ else()
 endif()
 conan_basic_setup(TARGETS)
 
+set(CMAKE_CXX_STANDARD 14)
+
 add_subdirectory("source_subfolder")
