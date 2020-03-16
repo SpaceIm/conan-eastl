@@ -8,7 +8,7 @@
 +target_link_libraries(EASTL CONAN_PKG::eabase)
  
 +if(BUILD_SHARED_LIBS)
-+  target_compile_definitions(EASTL PUBLIC EASTL_DLL)
++  target_compile_definitions(EASTL PUBLIC EA_DLL)
 +  if(MSVC OR CYGWIN)
 +    target_compile_definitions(EASTL PRIVATE "EASTL_API=__declspec(dllexport)")
 +  endif()
