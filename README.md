@@ -4,7 +4,7 @@
 
 | Windows | Linux | macOS |
 |:-------:|:-----:|:-----:|
-|[![Build status](https://ci.appveyor.com/api/projects/status/afpxf7hpmaq7c4gb/branch/testing%2F3.16.05?svg=true)](https://ci.appveyor.com/project/SpaceIm/conan-eastl)|[![Build status](https://github.com/SpaceIm/conan-eastl/workflows/.github/workflows/conan.yml/badge.svg?branch=testing%2F3.16.05)](https://github.com/SpaceIm/conan-eastl/actions?query=branch%3Atesting%2F3.16.05)|[![Build Status](https://travis-ci.com/SpaceIm/conan-eastl.svg?branch=testing%2F3.16.05)](https://travis-ci.com/SpaceIm/conan-eastl)|
+|[![Build status](https://ci.appveyor.com/api/projects/status/afpxf7hpmaq7c4gb/branch/testing%2F3.16.05?svg=true)](https://ci.appveyor.com/project/SpaceIm/conan-eastl)|[![Build status](https://github.com/SpaceIm/conan-eastl/workflows/.github/workflows/linux.yml/badge.svg?branch=testing%2F3.16.05)](https://github.com/SpaceIm/conan-eastl/actions/workflows/linux.yml?query=branch%3Atesting%2F3.16.05)|[![Build status](https://github.com/SpaceIm/conan-eastl/workflows/.github/workflows/macos.yml/badge.svg?branch=testing%2F3.16.05)](https://github.com/SpaceIm/conan-eastl/actions/workflows/macos.yml?query=branch%3Atesting%2F3.16.05)|
 
 ## Description
 
